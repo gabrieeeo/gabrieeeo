@@ -1,6 +1,6 @@
 # Gabriel - 17 anos - Brazil
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/gui-loko)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrieeeo)](https://github.com/gabrieeeo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lima-614568287/)](https://www.linkedin.com/in/gabriel-lima-614568287/)
 
 ## Sobre mim:
