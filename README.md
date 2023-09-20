@@ -10,7 +10,7 @@ Um jovem programador em busca de novos conhecimentos :smile:
 
 Desde cedo sempre gostei da área de T.I, é uma área que busco sempre me aprimorar.
 
-## My specialties:
+## Especialidades:
 Ultimamente tenho focado em Java.
 
 ### <img src="https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
