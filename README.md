@@ -1,4 +1,3 @@
-
 # Gabriel - 17 anos - Brazil
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gui-loko)](https://github.com/gui-loko)
@@ -13,7 +12,7 @@ Desde cedo sempre gostei da área de T.I, é uma área que busco sempre me aprim
 ## Especialidades:
 Ultimamente tenho focado em Java.
 
-### <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+### Linguagens: <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 ## Todos os dias aprendendo algo 😁
 
