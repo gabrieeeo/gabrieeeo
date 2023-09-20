@@ -13,7 +13,7 @@ Desde cedo sempre gostei da área de T.I, é uma área que busco sempre me aprim
 ## Especialidades:
 Ultimamente tenho focado em Java.
 
-### <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+### <img src="https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 ## Todos os dias aprendendo algo 😁
 
