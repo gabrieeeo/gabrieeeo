@@ -10,9 +10,8 @@ Um jovem programador em busca de novos conhecimentos :smile:
 Desde cedo sempre gostei da área de T.I, é uma área que busco sempre me aprimorar.
 
 ## Especialidades:
-Ultimamente tenho focado em Java.
 
-### <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+### <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src=["https://skillicons.dev/icons?i=java&theme=light" alt="java" width="40" height="40"/> </a> </p>
 
 ## Todos os dias aprendendo algo 😁
 
