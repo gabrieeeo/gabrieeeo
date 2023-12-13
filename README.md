@@ -13,6 +13,8 @@ Desde cedo sempre gostei da área de T.I, é uma área que busco sempre me aprim
 
 ### <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java&theme=light" alt="java" width="40" height="40"/> </a> </p>
 
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html&theme=light" alt="java" width="40" height="40"/> </a> </p>
+
 ## Todos os dias aprendendo algo 😁
 
 
