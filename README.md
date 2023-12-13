@@ -11,6 +11,8 @@ Um jovem programador em busca de novos conhecimentos :smile:
 
 Desde cedo sempre gostei da área de T.I, é uma área que busco sempre me aprimorar.
 
+🖥️ See my portfolio at [Portfolio](http://gabrieeeo.netlify.app/)
+
 ## Especialidades:
 
 ### <p align="left"> <a href="https://github.com/gabrieeeo" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html,css,javascript,java&theme=light" alt="Linguagens de programação." width="200" height="40"/> </a> </p>
