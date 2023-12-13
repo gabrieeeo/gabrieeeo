@@ -11,7 +11,7 @@ Um jovem programador em busca de novos conhecimentos :smile:
 
 Desde cedo sempre gostei da área de T.I, é uma área que busco sempre me aprimorar.
 
-🖥️ See my portfolio at [Portfolio](http://gabrieeeo.netlify.app/)
+🖥️ Veja o meu [portfolio](http://gabrieeeo.netlify.app/)
 
 ## Especialidades:
 
