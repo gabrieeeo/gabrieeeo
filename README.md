@@ -14,7 +14,7 @@
 > ```
 
 > ```java
-> private static final String FRASE = "✨ Você se torna o que você estuda." ;
+> private static final String FRASE = "✨ Você se torna o que você estuda.";
 > ```
 
 ## Olá, seja bem-vindo ao meu perfil! 👋
