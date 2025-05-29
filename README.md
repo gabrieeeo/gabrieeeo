@@ -26,6 +26,8 @@ Com conhecimento na linguagem Java desde 2018 e com estudos constantes, venho pa
 ## Especialidades: 💻
 #### <p align="left"> <a href="https://github.com/gabrieeeo" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java,javascript,html,css&theme=light" alt="Linguagens de programação." width="200" height="40"/> </a> </p>
 
+## GitHub: 🚀
+
 ## Conecte-se comigo 📫
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrieeeo)](https://github.com/gabrieeeo)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-lima-614568287/)](https://www.linkedin.com/in/gabriel-lima-614568287/)
