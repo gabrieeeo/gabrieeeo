@@ -1,16 +1,16 @@
-## Hi there 👋
+## Gabriel - Desenvolvedor Java ☕️
 
-<!--
-**gabrieeeo/gabrieeeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> ```java
+> public class gabrieeeo {
+>     private static final String NOME = "Gabriel";
+>     private static final String FUNCTION = "Desenvolvedor Java";
+>     private static final String GITHUB ="https://github.com/gabrieeeo";
+>     
+>     public static void main(String[] args) {
+>         System.out.println("🚀 Seja bem-vindo ao lugar onde ideias ganham... códigos!");
+>         System.out.println("💼 Meu nome é " + NOME + " e eu sou " + FUNCTION + ".");
+>         System.out.println("🎩 Aqui, cada linha de código é um aprendizado. Cada projeto uma nova experiência.");
+>         System.out.println("💡 Que o poder do código nos guie rumo a soluções brilhantes — e funcionais! :D ");
+>     }
+> }
+> ```
