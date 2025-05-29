@@ -17,7 +17,7 @@
 
 ## Olá, seja bem-vindo ao meu perfil! 👋
 
-Eu sou Gabriel, um desenvolvedor
+Eu sou Gabriel, **Desenvolvedor Java**, com foco em desenvolvimento back-end e interesse constante por tecnologias que entregam valor através de soluções eficientes e bem estruturadas. Adoro trabalhar em vários projetos interessantes e explorar o vasto mundo do desenvolvimento de software.
 
 ## Conecte-se comigo 📫
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrieeeo)](https://github.com/gabrieeeo)
