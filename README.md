@@ -18,7 +18,7 @@
 > ```
 
 ## Olá, seja bem-vindo ao meu perfil! 👋
-Eu sou Gabriel, desenvolvedor apaixonado por Java e interesse constante por tecnologias que entregam valor através de soluções eficientes e bem estruturadas. Adoro trabalhar em vários projetos interessantes e explorar o vasto mundo do desenvolvimento de software.
+Eu sou Gabriel, desenvolvedor apaixonado por Java e interesse constante por tecnologias que entregam valor através de soluções eficientes e bem estruturadas.
 
 ## Sobre mim 👔
 Com conhecimento na linguagem Java desde 2018 e com estudos constantes, venho participando de projetos que envolvem automação de processos, otimização de fluxos e suporte a sistemas corporativos. Comprometido com resultados, organização e boas práticas de desenvolvimento, estou sempre pronto para enfrentar novos desafios e contribuir ativamente em novos projetos.
