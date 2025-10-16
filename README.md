@@ -24,7 +24,7 @@ Eu sou Gabriel, desenvolvedor apaixonado por Java e interesse constante por tecn
 Com conhecimento na linguagem Java desde 2018 e com estudos constantes, venho participando de projetos que envolvem automação de processos, otimização de fluxos e suporte a sistemas corporativos. Comprometido com resultados, organização e boas práticas de desenvolvimento, estou sempre pronto para enfrentar novos desafios e contribuir ativamente em novos projetos.
 
 ## Especialidades 💻
-#### <p align="left"> <a href="https://github.com/gabrieeeo" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java,javascript,html,css&theme=light" alt="Linguagens de programação." width="200" height="40"/> </a> </p>
+#### <p align="left"> <a href="https://github.com/gabrieeeo" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,html,css&theme=light" alt="Linguagens de programação." width="200" height="40"/> </a> </p>
 
 ## Estatísticas 🚀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieeeo&theme=dark&hide_progress=true)
