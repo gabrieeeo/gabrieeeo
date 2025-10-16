@@ -8,7 +8,6 @@
 >         System.out.println("🚀 Seja bem-vindo ao lugar onde ideias ganham... códigos!");
 >         System.out.println("💼 Meu nome é " + NAME + " e eu sou " + FUNCTION + ".");
 >         System.out.println("🎩 Aqui, cada linha de código é um aprendizado. Cada projeto uma nova experiência.");
->         System.out.println("💡 Que o poder do código nos guie rumo a soluções brilhantes — e funcionais! :D ");
 >     }
 > }
 > ```
