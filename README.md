@@ -26,7 +26,7 @@ Com conhecimento na linguagem Java desde 2018 e com estudos constantes, venho pa
 #### <p align="left"> <a href="https://github.com/gabrieeeo" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java,spring,mysql,javascript,html,css&theme=dark" alt="Linguagens de programação." width="200" height="40"/> </a> </p>
 
 ## Estatísticas 🚀
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieeeo&theme=dark&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieeeo&theme=dark&hide_progress=true) 
 
 ## Conecte-se comigo 📫
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/gabrieeeo)](https://github.com/gabrieeeo)
